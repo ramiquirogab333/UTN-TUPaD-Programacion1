@@ -1,0 +1,2 @@
+# En dicho programa se da una lista de números enteros (8, 15, 3, 22, 7), en la cual se le aplica: numeros.remove(max(numeros))
+# Tal función elimina el número mayor de la lista. Luego se imprime la lista resultante (8, 15, 3, 7).
